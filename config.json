@@ -1,12 +1,12 @@
 {
     "url": "http://localhost:4567",
-    "secret": "56d1b705-2c71-468b-bc2b-6a4d2cfa5d83",
-    "database": "redis",
-    "port": 4567,
-    "redis": {
-        "host": "redis://redistogo:c9f14f76951da3a46553ae52ac5333dd@crestfish.redistogo.com:9379/",
-        "port": "9379",
-        "password": "c9f14f76951da3a46553ae52ac5333dd",
-        "database": "0"
+    "secret": "7e9c8568-c74c-41c1-a7d0-5ff8c72af26c",
+    "database": "mongo",
+    "mongo": {
+        "host": "ds135818.mlab.com",
+        "port": "35818",
+        "username": "romediu",
+        "password": "romediu3dFaQ0p",
+        "database": "romediu"
     }
 }
