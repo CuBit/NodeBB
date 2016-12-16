@@ -1,0 +1,12 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "56d1b705-2c71-468b-bc2b-6a4d2cfa5d83",
+    "database": "redis",
+    "port": 4567,
+    "redis": {
+        "host": "redis://redistogo:c9f14f76951da3a46553ae52ac5333dd@crestfish.redistogo.com:9379/",
+        "port": "9379",
+        "password": "c9f14f76951da3a46553ae52ac5333dd",
+        "database": "0"
+    }
+}
